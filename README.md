@@ -1,10 +1,10 @@
 # Port Checker
 Output will be returned one of the 4 states.
 
-① Opened  
-② Opened but nothing  
-③ Closed  
-④ Unknown  
+① Opened (0)
+② Opened but nothing (10061)
+③ Closed (10060)
+④ Unknown (others) 
 
  [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/gibiee/port-checker)
 
