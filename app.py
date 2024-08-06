@@ -20,10 +20,10 @@ with gr.Blocks() as demo :
     gr.Markdown("""
                 # Port Checker
                 ### Output will be returned one of the 4 states.
-                ① Opened (0)
-                ② Opened but nothing (10061)
-                ③ Closed (10060)
-                ④ Unknown (others) 
+                ① Opened (0)  
+                ② Opened but nothing (10061)  
+                ③ Closed (10060)  
+                ④ Unknown (others)  
                 """)
     
     with gr.Row() :
